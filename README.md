@@ -1,0 +1,3 @@
+# Lorem Blog
+
+Learning Webpack
